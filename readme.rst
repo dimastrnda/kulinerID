@@ -1,8 +1,8 @@
-# Kuliner.ID
+-- Kuliner.ID --
 
 Kuliner.ID is a web-based culinary information system 
 
-## Features
+> Features
 
 - User Authentication
 - Culinary Information Management
@@ -10,7 +10,7 @@ Kuliner.ID is a web-based culinary information system
 - CRUD Operations
 - Responsive User Interface
 
-## My Role
+> My Role
 
 - Developed both frontend and backend features
 - Designed database structure
