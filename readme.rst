@@ -16,3 +16,7 @@ Kuliner.ID is a web-based culinary information system
 - Designed database structure
 - Implemented CRUD functionality
 - Tested application features
+
+.. raw:: html
+
+   <img src="Kulineridpage.png" alt="Teks Alternatif" width="100%">
